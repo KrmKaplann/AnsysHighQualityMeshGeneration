@@ -18,8 +18,18 @@ This code has the following main features:
 2. The number of holes is determined.
 3. The hole diameter is determined and the geometry is prepared accordingly.
 
-![sasdd](https://github.com/KrmKaplann/AnsysHighQualityMeshGeneration/assets/172985380/50334554-6918-46d9-aa30-f293635ad6bc)
+
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/KrmKaplann/AnsysHighQualityMeshGeneration/assets/172985380/50334554-6918-46d9-aa30-f293635ad6bc">
+</div>
+
+<div align="center">
+  <br><br>
+  You can get more detailed information about the use of the programme by watching the Linkedin Video below...
+  <a href="https://www.linkedin.com/posts/kerim-kaplan_high-quality-mesh-generation-helper-code-activity-7170118575960014848-sR7h?utm_source=share&utm_medium=member_desktop">https://www.linkedin.com/posts/kerim-kaplan_high-quality-mesh-generation-helper-code-activity-7170118575960014848-sR7h?utm_source=share&utm_medium=member_desktop/a>
+</div>
 
 
 
-https://www.linkedin.com/posts/kerim-kaplan_high-quality-mesh-generation-helper-code-activity-7170118575960014848-sR7h?utm_source=share&utm_medium=member_desktop
